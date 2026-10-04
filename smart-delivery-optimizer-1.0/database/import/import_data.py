@@ -18,7 +18,7 @@ DB_CONFIG = {
     "port": 5432,
     "database": "smart_delivery_optimizer",
     "user": "postgres",
-    "password": "sangsaviadmin@1983",
+    "password": "YOUR_PASSWORD_HERE"  # Replace with your actual password,
 }
 
 
